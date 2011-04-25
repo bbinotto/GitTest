@@ -9,6 +9,10 @@ public class TestGit {
 		System.out.println("Hallo Git");
 		
 		System.out.println("hallo from master branch");
+	
+		System.out.println("hallo from local");
 	}
+	
+	
 
 }
